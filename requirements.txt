@@ -1,0 +1,2 @@
+markdown==3.6
+setuptools==69.0.3
