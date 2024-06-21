@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 markdown = "==3.6"
+html-compiler = {editable = true, path = "."}
+pyyaml = "*"
 
 [dev-packages]
 
